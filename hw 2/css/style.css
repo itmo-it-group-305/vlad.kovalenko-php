@@ -1,4 +1,17 @@
 section {
+    margin: 2%;
+    height: 20%;
     width: 15%;
+    background: aliceblue;
     display: inline-block;
+}
+section:hover {
+    background: aqua;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+p{
+    align-content: center;
 }
